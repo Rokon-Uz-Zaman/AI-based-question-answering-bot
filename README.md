@@ -1,3 +1,4 @@
 # Question-answering-bot
 
-![Capturehfhhfgh](https://user-images.githubusercontent.com/26451679/231804176-263d9c78-9753-4a1c-9244-8709c4f66ff9.PNG)
+![Capture upload](https://user-images.githubusercontent.com/26451679/231812692-5c9ba2da-e60b-41cc-8d6a-d5e58cc418d3.PNG)
+
